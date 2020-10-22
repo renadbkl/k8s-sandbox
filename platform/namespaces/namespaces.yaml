@@ -17,12 +17,12 @@ metadata:
 apiVersion: v1
 kind: Namespace
 metadata:
-  name: t-test
+  name: test
 ---
 apiVersion: v1
 kind: Namespace
 metadata:
-  name: t-prod
+  name: prod
 ---
 apiVersion: v1
 kind: Namespace
